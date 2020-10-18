@@ -15,13 +15,9 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-* [ссылка](https://docs.google.com/document/d/1OMYgn4q0ZLRz1ISWnhcnACEvAHguGKYdyfa9gyMgfLs/edit?usp=sharing)
+* [ссылка](https://github.com/ANNA-23021975/javakay/issues/1#issue-718848717)
 
-* [ссылка](https://docs.google.com/document/d/1ZpRAAJCw9FV8JTvrjMwBvhy_NufDVpSWJKWAOGAo4us/edit?usp=sharing)
-
-* [ссылка](https://docs.google.com/document/d/1yvPVvPpFy2Ugg5ggfjobu9q9ZSmU-xdkyPYN0f-8z74/edit?usp=sharing)
-
-* [ссылка](https://docs.google.com/document/d/1a0Fm3kY3Tk_OvTfIC5pKclRRbD1PhUe10xtRI1KMmI0/edit?usp=sharing)
+* [ссылка](https://github.com/ANNA-23021975/javakay/issues/2#issue-718856309)
 
 ## описание процесса тестирования
  
@@ -52,4 +48,5 @@
 Тестирование проводилось в следующем окружении 
 
 * Windows 10 Домашняя
-* JAVA 11.0.8
+* Java 11
+
